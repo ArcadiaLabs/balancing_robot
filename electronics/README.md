@@ -1,9 +1,7 @@
-# Android Controlled Self Balancing Robot - 3D files
+# # Android Controlled Self Balancing Robot - electronic circuit
 
 This project is on Hackaday.io and takes part in the Hackaday Prize 2017 : https://hackaday.io/project/25835-android-controlled-balancing-robot
 **Like this project on Hackaday.io and help me build new cool things !**
-
-[3D files instructions](https://hackaday.io/project/25835-android-controlled-self-balancing-robot/log/62775-3d-printed-frame)
 
 # LICENSE
 ![Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)](by-nc-nd.png?raw=true "Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0) ")
