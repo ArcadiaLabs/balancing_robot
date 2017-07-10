@@ -5,6 +5,11 @@ This project is on Hackaday.io and takes part in the Hackaday Prize 2017 : https
 
 [3D files instructions](https://hackaday.io/project/25835-android-controlled-self-balancing-robot/log/62775-3d-printed-frame)
 
+# Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=stephgsec%2debay%40yahoo%2efr&lc=US&item_name=St%c3%a9phane%20Guerreau&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
+
 # LICENSE
 ![Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)](by-nc-nd.png?raw=true "Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0) ")
 
