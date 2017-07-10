@@ -3,6 +3,8 @@
 This project is on Hackaday.io and takes part in the Hackaday Prize 2017 : https://hackaday.io/project/25835-android-controlled-balancing-robot
 **Like this project on Hackaday.io and help me build new cool things !**
 
+![3D model](robot_3d.png?raw=true "3D model")
+
 [3D files instructions](https://hackaday.io/project/25835-android-controlled-self-balancing-robot/log/62775-3d-printed-frame)
 
 # Donation
