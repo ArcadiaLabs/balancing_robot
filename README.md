@@ -18,6 +18,8 @@ This project is on Hackaday.io and takes part in the Hackaday Prize 2017 : https
 
 - Android : Bluetooth Electronics app (http://www.keuwl.com/apps/bluetoothelectronics/)
 
+*You could find full instructions on the [project's page on HackaDay.io](https://hackaday.io/project/25835-android-controlled-balancing-robot) and in the README present in each subfolder of this repository.*
+
 # Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
